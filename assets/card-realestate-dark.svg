@@ -2,9 +2,9 @@
 <rect width="440" height="180" rx="16" fill="#0D1117"/>
 <rect x="1" y="1" width="438" height="178" rx="15" fill="none" stroke="#3FB950" stroke-opacity=".5"/>
 <rect x="22" y="22" width="5" height="136" rx="2.5" fill="#3FB950"/>
-<text x="46" y="52" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" font-weight="700">Kira Real Estate</text>
-<text x="46" y="83" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13">A practical real-estate web experience built as</text>
-<text x="46" y="103" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13">a product surface.</text>
+<text x="46" y="52" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" font-weight="700">KiraEstate</text>
+<text x="46" y="83" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13">A responsive property discovery and inquiry</text>
+<text x="46" y="103" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13">experience.</text>
 <rect x="46" y="126" width="112" height="25" rx="12.5" fill="#161B22" stroke="#8B949E" stroke-opacity=".32"/>
 <text x="102" y="143" text-anchor="middle" fill="#F0F6FC" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">HTML</text>
 <text x="46" y="169" fill="#8B949E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">* 0 stars   0 forks   github.com/kirawebdesigner/realestate</text>
