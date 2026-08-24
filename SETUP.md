@@ -14,7 +14,7 @@ python scripts/generate_profile.py \
   --out assets
 ```
 
-The generator refreshes the self-rated radar, public language radar, project cards, profile snapshot, and recent public activity chart. It excludes forked repositories and excludes HTML, CSS, and build/configuration languages from the language radar so the result better reflects application code. The README uses stable text in the hero rather than a third-party typing animation because the animation clipped on narrow mobile screens.
+The generator refreshes the self-rated radar, public language radar, project cards, profile snapshot, and recent public activity chart. The README’s featured-projects showcase uses four compact custom JPG banners in `assets/banner-*.jpg`; each banner is a direct link to its matching repository. `scripts/optimize_banners.py` can reproduce the 1600x900, mobile-friendly exports from the source PNGs when needed. It excludes forked repositories and excludes HTML, CSS, and build/configuration languages from the language radar so the result better reflects application code. The README uses stable text in the hero rather than a third-party typing animation because the animation clipped on narrow mobile screens.
 
 ## GitHub Actions
 

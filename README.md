@@ -40,52 +40,33 @@ I’m **Kirubel**, a student developer and product builder. I turn rough ideas i
 
 The first radar is self-rated. The second reflects language bytes across my public, non-fork repositories. Both are snapshots, not certifications.
 
-## Featured builds
+## Featured projects
 
-<p align="center">
-  <a href="https://github.com/kirawebdesigner/realestate">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-realestate-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-realestate-light.svg">
-      <img src="assets/card-realestate-light.svg" width="760" alt="Kira Real Estate">
-    </picture>
-  </a>
-</p>
+A focused selection of products and systems I’ve been building. **Each banner links directly to its repository.**
 
-<p align="center">
-  <a href="https://github.com/kirawebdesigner/zewijunatest">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-zewijunatest-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-zewijunatest-light.svg">
-      <img src="assets/card-zewijunatest-light.svg" width="760" alt="Zewijuna">
-    </picture>
-  </a>
-</p>
+### [Kira Real Estate](https://github.com/kirawebdesigner/realestate)
 
-<p align="center">
-  <a href="https://github.com/kirawebdesigner/dentalcare">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-dentalcare-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dentalcare-light.svg">
-      <img src="assets/card-dentalcare-light.svg" width="760" alt="Dental Management System">
-    </picture>
-  </a>
-</p>
+<a href="https://github.com/kirawebdesigner/realestate"><img src="assets/banner-realestate.jpg" width="760" alt="Kira Real Estate: a real-estate product with map and property visuals"></a>
 
-<p align="center">
-  <a href="https://github.com/kirawebdesigner/brand-blueprint-generator">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-brand-blueprint-generator-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-brand-blueprint-generator-light.svg">
-      <img src="assets/card-brand-blueprint-generator-light.svg" width="760" alt="BrandBlueprint AI">
-    </picture>
-  </a>
-</p>
+**A practical real-estate web experience** with a product-focused interface and property discovery at its center. [View repository →](https://github.com/kirawebdesigner/realestate)
 
-- **Kira Real Estate** — [realestate](https://github.com/kirawebdesigner/realestate): a practical real-estate web experience.
-- **Zewijuna** — [zewijunatest](https://github.com/kirawebdesigner/zewijunatest): a mobile app and web-platform project.
-- **Dental Management System** — [dentalcare](https://github.com/kirawebdesigner/dentalcare): a workflow-focused dental clinic management application.
-- **BrandBlueprint AI** — [brand-blueprint-generator](https://github.com/kirawebdesigner/brand-blueprint-generator): AI-assisted brand strategy and identity generation.
+### [Zewijuna](https://github.com/kirawebdesigner/zewijunatest)
+
+<a href="https://github.com/kirawebdesigner/zewijunatest"><img src="assets/banner-zewijuna.jpg" width="760" alt="Zewijuna: a mobile and web community platform concept"></a>
+
+**A mobile app and web-platform project** built around a connected, human-centered workflow. [View repository →](https://github.com/kirawebdesigner/zewijunatest)
+
+### [Dental Management System](https://github.com/kirawebdesigner/dentalcare)
+
+<a href="https://github.com/kirawebdesigner/dentalcare"><img src="assets/banner-dentalcare.jpg" width="760" alt="Dental Management System: connected dental clinic workflows"></a>
+
+**A workflow-focused dental clinic application** designed to bring appointments, care, and operations into one clearer system. [View repository →](https://github.com/kirawebdesigner/dentalcare)
+
+### [BrandBlueprint AI](https://github.com/kirawebdesigner/brand-blueprint-generator)
+
+<a href="https://github.com/kirawebdesigner/brand-blueprint-generator"><img src="assets/banner-brandblueprint.jpg" width="760" alt="BrandBlueprint AI: modular brand strategy and identity generation"></a>
+
+**An AI-assisted brand strategy workspace** for turning early direction into a more structured identity system. [View repository →](https://github.com/kirawebdesigner/brand-blueprint-generator)
 
 ## GitHub activity
 
