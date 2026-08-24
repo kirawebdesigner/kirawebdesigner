@@ -1,0 +1,33 @@
+{
+  "title": "Builder Radar",
+  "axes": [
+    {
+      "label": "Web",
+      "value": 88
+    },
+    {
+      "label": "React",
+      "value": 82
+    },
+    {
+      "label": "TypeScript",
+      "value": 78
+    },
+    {
+      "label": "Mobile",
+      "value": 76
+    },
+    {
+      "label": "Backend",
+      "value": 72
+    },
+    {
+      "label": "Python",
+      "value": 68
+    },
+    {
+      "label": "AI Systems",
+      "value": 74
+    }
+  ]
+}

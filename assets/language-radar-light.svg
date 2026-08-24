@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="410" viewBox="0 0 500 410" role="img">
+<rect width="500" height="410" rx="18" fill="#FFFFFF"/>
+<rect x="1" y="1" width="498" height="408" rx="17" fill="none" stroke="#2DA44E" stroke-opacity=".34"/>
+<text x="26" y="36" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" font-weight="700">Public language mix</text>
+<text x="26" y="59" fill="#59636E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">A current, self-rated snapshot - 0-100</text>
+<polygon points="250.0,193.8 274.4,205.5 280.5,232.0 263.6,253.2 236.4,253.2 219.5,232.0 225.6,205.5" fill="none" stroke="#59636E" stroke-opacity=".24"/>
+<polygon points="250.0,162.5 298.9,186.0 310.9,238.9 277.1,281.3 222.9,281.3 189.1,238.9 201.1,186.0" fill="none" stroke="#59636E" stroke-opacity=".24"/>
+<polygon points="250.0,131.2 323.3,166.5 341.4,245.9 290.7,309.5 209.3,309.5 158.6,245.9 176.7,166.5" fill="none" stroke="#59636E" stroke-opacity=".24"/>
+<polygon points="250.0,100.0 347.7,147.1 371.9,252.8 304.2,337.6 195.8,337.6 128.1,252.8 152.3,147.1" fill="none" stroke="#59636E" stroke-opacity=".24"/>
+<line x1="250" y1="225" x2="250.0" y2="100.0" stroke="#59636E" stroke-opacity=".24"/>
+<text x="250.0" y="73.0" text-anchor="middle" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Python 8.7M</text>
+<line x1="250" y1="225" x2="347.7" y2="147.1" stroke="#59636E" stroke-opacity=".24"/>
+<text x="368.8" y="130.2" text-anchor="start" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">JavaScript 5.8M</text>
+<line x1="250" y1="225" x2="371.9" y2="252.8" stroke="#59636E" stroke-opacity=".24"/>
+<text x="398.2" y="258.8" text-anchor="start" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">TypeScript 1.2M</text>
+<line x1="250" y1="225" x2="304.2" y2="337.6" stroke="#59636E" stroke-opacity=".24"/>
+<text x="316.0" y="361.9" text-anchor="start" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">PLpgSQL 145.8k</text>
+<line x1="250" y1="225" x2="195.8" y2="337.6" stroke="#59636E" stroke-opacity=".24"/>
+<text x="184.0" y="361.9" text-anchor="end" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">C++ 68.6k</text>
+<line x1="250" y1="225" x2="128.1" y2="252.8" stroke="#59636E" stroke-opacity=".24"/>
+<text x="101.8" y="258.8" text-anchor="end" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">PowerShell 37.5k</text>
+<line x1="250" y1="225" x2="152.3" y2="147.1" stroke="#59636E" stroke-opacity=".24"/>
+<text x="131.2" y="130.2" text-anchor="end" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Java 35.9k</text>
+<polygon points="250.0,100.0 333.1,158.8 304.8,237.5 260.3,246.4 242.4,240.8 236.6,228.1 239.2,216.4" fill="#2DA44E" fill-opacity=".27" stroke="#2DA44E" stroke-width="2.5"/>
+<circle cx="250.0" cy="100.0" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
+<text x="250.0" y="86.0" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">100</text>
+<circle cx="333.1" cy="158.8" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
+<text x="344.0" y="150.0" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">85</text>
+<circle cx="304.8" cy="237.5" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
+<text x="318.5" y="240.6" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">45</text>
+<circle cx="260.3" cy="246.4" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
+<text x="266.4" y="259.0" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">19</text>
+<circle cx="242.4" cy="240.8" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
+<text x="236.3" y="253.4" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">14</text>
+<circle cx="236.6" cy="228.1" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
+<text x="222.9" y="231.2" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">11</text>
+<circle cx="239.2" cy="216.4" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
+<text x="228.3" y="207.7" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">11</text>
+</svg>
