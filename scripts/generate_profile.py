@@ -14,8 +14,8 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-ACCENT = "#2DA44E"
-ACCENT_DARK = "#3FB950"
+ACCENT = "#D94A4A"
+ACCENT_DARK = "#FF6B6B"
 DARK_BG = "#0D1117"
 DARK_PANEL = "#161B22"
 DARK_TEXT = "#F0F6FC"
@@ -126,6 +126,20 @@ def fetch_language_bytes(user: str, repos: list[dict]) -> dict[str, int]:
     return dict(totals)
 
 
+def generate_skill_graph(data: dict, out_base: Path, title: str, selected_labels: list[str]) -> None:
+    value_by_label = {str(axis.get("label", "")): max(0, min(100, int(axis.get("value", 0)))) for axis in data.get("axes", [])}
+    axes = [(label, value_by_label.get(label, 0)) for label in selected_labels]
+    width, height = 760, 218
+    for dark in (True, False):
+        bg, panel, foreground, muted = theme(dark)
+        accent = ACCENT_DARK if dark else ACCENT
+        lines = [f'<rect width="{width}" height="{height}" rx="16" fill="{bg}"/>', f'<rect x="1" y="1" width="{width-2}" height="{height-2}" rx="15" fill="none" stroke="{accent}" stroke-opacity=".45"/>', f'<text x="28" y="36" fill="{foreground}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" font-weight="700">{escape(title)}</text>', f'<text x="28" y="58" fill="{muted}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Self-rated skill snapshot - click to view related capability work</text>']
+        for index, (label, value) in enumerate(axes):
+            y = 80 + index * 34
+            lines.extend([f'<text x="28" y="{y+13}" fill="{foreground}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">{escape(label)}</text>', f'<rect x="150" y="{y}" width="520" height="14" rx="7" fill="{panel}"/>', f'<rect x="150" y="{y}" width="{520 * value / 100:.1f}" height="14" rx="7" fill="{accent}" fill-opacity=".88"/>', f'<text x="700" y="{y+13}" text-anchor="end" fill="{accent}" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">{value}</text>'])
+        write_svg(out_base.with_name(out_base.name + ("-dark.svg" if dark else "-light.svg")), "\n".join(lines), width, height)
+
+
 def generate_language_radar(language_bytes: dict[str, int], out_base: Path) -> None:
     if not language_bytes:
         language_bytes = {"No data yet": 1}
@@ -207,6 +221,8 @@ def main() -> None:
     repos = fetch_repositories(args.user)
     repos_by_name = {repo.get("name", ""): repo for repo in repos}
     generate_radar(skills, args.out / "radar")
+    generate_skill_graph(skills, args.out / "skill-graph-product", "Product delivery", ["Web", "React", "TypeScript", "Mobile"])
+    generate_skill_graph(skills, args.out / "skill-graph-systems", "Systems and AI", ["Backend", "Python", "AI Systems"])
     generate_language_radar(fetch_language_bytes(args.user, repos), args.out / "language-radar")
     generate_cards(args.user, project_config.get("projects", []), repos_by_name, args.out)
     generate_stats(args.user, repos, args.out)

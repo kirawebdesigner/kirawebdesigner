@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="410" viewBox="0 0 500 410" role="img">
 <rect width="500" height="410" rx="18" fill="#FFFFFF"/>
-<rect x="1" y="1" width="498" height="408" rx="17" fill="none" stroke="#2DA44E" stroke-opacity=".34"/>
+<rect x="1" y="1" width="498" height="408" rx="17" fill="none" stroke="#D94A4A" stroke-opacity=".34"/>
 <text x="26" y="36" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" font-weight="700">Public language mix</text>
 <text x="26" y="59" fill="#59636E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Aggregated public repository language bytes</text>
 <polygon points="250.0,193.8 274.4,205.5 280.5,232.0 263.6,253.2 236.4,253.2 219.5,232.0 225.6,205.5" fill="none" stroke="#59636E" stroke-opacity=".24"/>
@@ -21,19 +21,19 @@
 <text x="101.8" y="258.8" text-anchor="end" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">PowerShell 37.5k</text>
 <line x1="250" y1="225" x2="152.3" y2="147.1" stroke="#59636E" stroke-opacity=".24"/>
 <text x="131.2" y="130.2" text-anchor="end" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Java 35.9k</text>
-<polygon points="250.0,100.0 333.1,158.8 304.8,237.5 260.3,246.4 242.4,240.8 236.6,228.1 239.2,216.4" fill="#2DA44E" fill-opacity=".27" stroke="#2DA44E" stroke-width="2.5"/>
-<circle cx="250.0" cy="100.0" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
-<text x="250.0" y="86.0" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">100</text>
-<circle cx="333.1" cy="158.8" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
-<text x="344.0" y="150.0" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">85</text>
-<circle cx="304.8" cy="237.5" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
-<text x="318.5" y="240.6" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">45</text>
-<circle cx="260.3" cy="246.4" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
-<text x="266.4" y="259.0" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">19</text>
-<circle cx="242.4" cy="240.8" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
-<text x="236.3" y="253.4" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">14</text>
-<circle cx="236.6" cy="228.1" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
-<text x="222.9" y="231.2" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">11</text>
-<circle cx="239.2" cy="216.4" r="4" fill="#FFFFFF" stroke="#2DA44E" stroke-width="2"/>
-<text x="228.3" y="207.7" text-anchor="middle" fill="#2DA44E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">11</text>
+<polygon points="250.0,100.0 333.1,158.8 304.8,237.5 260.3,246.4 242.4,240.8 236.6,228.1 239.2,216.4" fill="#D94A4A" fill-opacity=".27" stroke="#D94A4A" stroke-width="2.5"/>
+<circle cx="250.0" cy="100.0" r="4" fill="#FFFFFF" stroke="#D94A4A" stroke-width="2"/>
+<text x="250.0" y="86.0" text-anchor="middle" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">100</text>
+<circle cx="333.1" cy="158.8" r="4" fill="#FFFFFF" stroke="#D94A4A" stroke-width="2"/>
+<text x="344.0" y="150.0" text-anchor="middle" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">85</text>
+<circle cx="304.8" cy="237.5" r="4" fill="#FFFFFF" stroke="#D94A4A" stroke-width="2"/>
+<text x="318.5" y="240.6" text-anchor="middle" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">45</text>
+<circle cx="260.3" cy="246.4" r="4" fill="#FFFFFF" stroke="#D94A4A" stroke-width="2"/>
+<text x="266.4" y="259.0" text-anchor="middle" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">19</text>
+<circle cx="242.4" cy="240.8" r="4" fill="#FFFFFF" stroke="#D94A4A" stroke-width="2"/>
+<text x="236.3" y="253.4" text-anchor="middle" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">14</text>
+<circle cx="236.6" cy="228.1" r="4" fill="#FFFFFF" stroke="#D94A4A" stroke-width="2"/>
+<text x="222.9" y="231.2" text-anchor="middle" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">11</text>
+<circle cx="239.2" cy="216.4" r="4" fill="#FFFFFF" stroke="#D94A4A" stroke-width="2"/>
+<text x="228.3" y="207.7" text-anchor="middle" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">11</text>
 </svg>

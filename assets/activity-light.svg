@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img">
 <rect width="760" height="230" rx="16" fill="#FFFFFF"/>
-<rect x="1" y="1" width="758" height="228" rx="15" fill="none" stroke="#2DA44E" stroke-opacity=".45"/>
+<rect x="1" y="1" width="758" height="228" rx="15" fill="none" stroke="#D94A4A" stroke-opacity=".45"/>
 <text x="28" y="36" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" font-weight="700">Recent public activity</text>
 <text x="28" y="58" fill="#59636E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Event types in the latest public activity window</text>
 <text x="28" y="96" fill="#1F2328" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">Push</text>
 <rect x="190" y="84" width="520" height="14" rx="7" fill="#F6F8FA"/>
-<rect x="190" y="84" width="520.0" height="14" rx="7" fill="#2DA44E" fill-opacity=".86"/>
+<rect x="190" y="84" width="520.0" height="14" rx="7" fill="#D94A4A" fill-opacity=".86"/>
 <text x="724" y="96" text-anchor="end" fill="#59636E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">58</text>
 <text x="28" y="119" fill="#1F2328" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">Create</text>
 <rect x="190" y="107" width="520" height="14" rx="7" fill="#F6F8FA"/>
-<rect x="190" y="107" width="62.8" height="14" rx="7" fill="#2DA44E" fill-opacity=".86"/>
+<rect x="190" y="107" width="62.8" height="14" rx="7" fill="#D94A4A" fill-opacity=".86"/>
 <text x="724" y="119" text-anchor="end" fill="#59636E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">7</text>
 <text x="28" y="142" fill="#1F2328" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">Watch</text>
 <rect x="190" y="130" width="520" height="14" rx="7" fill="#F6F8FA"/>
-<rect x="190" y="130" width="44.8" height="14" rx="7" fill="#2DA44E" fill-opacity=".86"/>
+<rect x="190" y="130" width="44.8" height="14" rx="7" fill="#D94A4A" fill-opacity=".86"/>
 <text x="724" y="142" text-anchor="end" fill="#59636E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">5</text>
 <text x="28" y="165" fill="#1F2328" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">Fork</text>
 <rect x="190" y="153" width="520" height="14" rx="7" fill="#F6F8FA"/>
-<rect x="190" y="153" width="17.9" height="14" rx="7" fill="#2DA44E" fill-opacity=".86"/>
+<rect x="190" y="153" width="17.9" height="14" rx="7" fill="#D94A4A" fill-opacity=".86"/>
 <text x="724" y="165" text-anchor="end" fill="#59636E" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">2</text>
 </svg>

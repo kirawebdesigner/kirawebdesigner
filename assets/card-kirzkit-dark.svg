@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="180" viewBox="0 0 440 180" role="img">
 <rect width="440" height="180" rx="16" fill="#0D1117"/>
-<rect x="1" y="1" width="438" height="178" rx="15" fill="none" stroke="#3FB950" stroke-opacity=".5"/>
-<rect x="22" y="22" width="5" height="136" rx="2.5" fill="#3FB950"/>
+<rect x="1" y="1" width="438" height="178" rx="15" fill="none" stroke="#FF6B6B" stroke-opacity=".5"/>
+<rect x="22" y="22" width="5" height="136" rx="2.5" fill="#FF6B6B"/>
 <text x="46" y="52" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" font-weight="700">KirzKit</text>
 <text x="46" y="83" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13">A portable operating layer for AI coding</text>
 <text x="46" y="103" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13">agents.</text>

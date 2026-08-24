@@ -8,6 +8,10 @@
 
 [Portfolio](https://kiraweb.pro.et) · [GitHub](https://github.com/kirawebdesigner) · [LinkedIn](https://www.linkedin.com/in/kirubel-daniel/)
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=FF6B6B&center=true&vCenter=true&width=520&lines=Building+products+that+work;Full-stack+systems+developer;Web+%2B+mobile+%2B+AI" alt="Live typing introduction">
+
+<a href="https://github.com/kirawebdesigner"><img src="https://komarev.com/ghpvc/?username=kirawebdesigner&color=DC2626&style=flat-square&label=PROFILE+VISITS" alt="Profile visitor count"></a>
+
 </div>
 
 ## What I build
@@ -21,6 +25,34 @@ My work spans mobile applications, SaaS platforms, commerce systems, internal ma
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,fastapi,nodejs,expo,reactnative,supabase,postgres,git,github,vscode&perline=11" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Python, FastAPI, Node.js, Expo, React Native, Supabase, PostgreSQL, Git, GitHub, and VS Code">
 </p>
+
+## Skills in motion
+
+<details open>
+<summary><strong>Open the interactive skill graphs</strong></summary>
+
+<p align="center">
+  <a href="https://kiraweb.pro.et/#services">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/skill-graph-product-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/skill-graph-product-light.svg">
+      <img src="assets/skill-graph-product-light.svg" width="760" alt="Interactive product delivery skill graph; click to open portfolio capabilities">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://kiraweb.pro.et/services/backend-api-development/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/skill-graph-systems-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/skill-graph-systems-light.svg">
+      <img src="assets/skill-graph-systems-light.svg" width="760" alt="Interactive systems and AI skill graph; click to open backend capability work">
+    </picture>
+  </a>
+</p>
+
+<p><sub>Click a graph to explore the matching capability area on my portfolio.</sub></p>
+</details>
 
 ## Builder radar
 

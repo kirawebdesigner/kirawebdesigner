@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="218" viewBox="0 0 760 218" role="img">
+<rect width="760" height="218" rx="16" fill="#FFFFFF"/>
+<rect x="1" y="1" width="758" height="216" rx="15" fill="none" stroke="#D94A4A" stroke-opacity=".45"/>
+<text x="28" y="36" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" font-weight="700">Product delivery</text>
+<text x="28" y="58" fill="#59636E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Self-rated skill snapshot - click to view related capability work</text>
+<text x="28" y="93" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Web</text>
+<rect x="150" y="80" width="520" height="14" rx="7" fill="#F6F8FA"/>
+<rect x="150" y="80" width="457.6" height="14" rx="7" fill="#D94A4A" fill-opacity=".88"/>
+<text x="700" y="93" text-anchor="end" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">88</text>
+<text x="28" y="127" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">React</text>
+<rect x="150" y="114" width="520" height="14" rx="7" fill="#F6F8FA"/>
+<rect x="150" y="114" width="426.4" height="14" rx="7" fill="#D94A4A" fill-opacity=".88"/>
+<text x="700" y="127" text-anchor="end" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">82</text>
+<text x="28" y="161" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">TypeScript</text>
+<rect x="150" y="148" width="520" height="14" rx="7" fill="#F6F8FA"/>
+<rect x="150" y="148" width="405.6" height="14" rx="7" fill="#D94A4A" fill-opacity=".88"/>
+<text x="700" y="161" text-anchor="end" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">78</text>
+<text x="28" y="195" fill="#1F2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Mobile</text>
+<rect x="150" y="182" width="520" height="14" rx="7" fill="#F6F8FA"/>
+<rect x="150" y="182" width="395.2" height="14" rx="7" fill="#D94A4A" fill-opacity=".88"/>
+<text x="700" y="195" text-anchor="end" fill="#D94A4A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">76</text>
+</svg>
