@@ -2,22 +2,24 @@
 
 # Kirubel
 
-### Student developer · Product builder · AI systems explorer
+### Full-stack product builder · Digital systems developer
 
-**Web products · mobile apps · useful AI**
+**Web products · mobile apps · SaaS · automation**
 
-[GitHub](https://github.com/kirawebdesigner) · [All repositories](https://github.com/kirawebdesigner?tab=repositories)
+[Portfolio](https://kiraweb.pro.et) · [GitHub](https://github.com/kirawebdesigner) · [LinkedIn](https://www.linkedin.com/in/kirubel-daniel/)
 
 </div>
 
 ## What I build
 
-I’m **Kirubel**, a student developer and product builder. I turn rough ideas into web apps, mobile products, and AI-powered tools. I’m currently focused on stronger architecture, better APIs, thoughtful interfaces, and practical automation.
+I’m **Kirubel Daniel**, a full-stack product builder based in Addis Ababa, Ethiopia. I build real digital products across frontend, backend, databases, automation, deployment, and the operational details that make software useful beyond the screen.
+
+My work spans mobile applications, SaaS platforms, commerce systems, internal management tools, and responsive product experiences. I care about clear workflows, role-aware systems, reliable data, and interfaces that help people move from a problem to a practical next step.
 
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,nodejs,expo,git,github,vscode&perline=12" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Python, Node.js, Expo, Git, GitHub, and VS Code">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,fastapi,nodejs,expo,reactnative,supabase,postgres,git,github,vscode&perline=11" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Python, FastAPI, Node.js, Expo, React Native, Supabase, PostgreSQL, Git, GitHub, and VS Code">
 </p>
 
 ## Builder radar
@@ -42,31 +44,42 @@ The first radar is self-rated. The second reflects language bytes across my publ
 
 ## Featured projects
 
-A focused selection of products and systems I’ve been building. **Each banner links directly to its repository.**
+These are selected directly from my portfolio. Each visual is self-hosted, and every project has a clear route to its live experience or case study.
 
-### [Kira Real Estate](https://github.com/kirawebdesigner/realestate)
+### [Zewijuna](https://zewijuna.com)
 
-<a href="https://github.com/kirawebdesigner/realestate"><img src="assets/banner-realestate.jpg" width="760" alt="Kira Real Estate: a real-estate product with map and property visuals"></a>
+<a href="https://zewijuna.com"><img src="assets/portfolio/zewijuna.webp" width="760" alt="Zewijuna matchmaking website landing page"></a>
 
-**A practical real-estate web experience** with a product-focused interface and property discovery at its center. [View repository →](https://github.com/kirawebdesigner/realestate)
+**Mobile + web matchmaking product.** A connected product with onboarding, profile discovery, preference filters, realtime communication, membership flows, and verification. [Live product](https://zewijuna.com) · [Case study](https://kiraweb.pro.et/work/zewijuna/) · [GitHub](https://github.com/kirawebdesigner/zewijunatest)
 
-### [Zewijuna](https://github.com/kirawebdesigner/zewijunatest)
+### [YourCloser](https://yourcloser.web.app)
 
-<a href="https://github.com/kirawebdesigner/zewijunatest"><img src="assets/banner-zewijuna.jpg" width="760" alt="Zewijuna: a mobile and web community platform concept"></a>
+<a href="https://yourcloser.web.app"><img src="assets/portfolio/yourcloser.webp" width="760" alt="YourCloser Telegram commerce automation website"></a>
 
-**A mobile app and web-platform project** built around a connected, human-centered workflow. [View repository →](https://github.com/kirawebdesigner/zewijunatest)
+**Telegram commerce automation SaaS.** A multi-tenant commerce system for product browsing, stock checks, checkout, order decisions, broadcasts, subscriptions, and operational control. [Live product](https://yourcloser.web.app) · [Case study](https://kiraweb.pro.et/work/yourcloser/)
 
-### [Dental Management System](https://github.com/kirawebdesigner/dentalcare)
+### [DMS](https://github.com/kirawebdesigner/dentalcare)
 
-<a href="https://github.com/kirawebdesigner/dentalcare"><img src="assets/banner-dentalcare.jpg" width="760" alt="Dental Management System: connected dental clinic workflows"></a>
+<a href="https://github.com/kirawebdesigner/dentalcare"><img src="assets/portfolio/dms.webp" width="760" alt="DMS dental clinic administration dashboard"></a>
 
-**A workflow-focused dental clinic application** designed to bring appointments, care, and operations into one clearer system. [View repository →](https://github.com/kirawebdesigner/dentalcare)
+**Dental operations management system.** Role-based workflows for administrators, reception, doctors, and finance across patients, appointments, treatments, billing, staff, reporting, and notifications. [GitHub](https://github.com/kirawebdesigner/dentalcare) · [Case study](https://kiraweb.pro.et/work/dms/)
 
-### [BrandBlueprint AI](https://github.com/kirawebdesigner/brand-blueprint-generator)
+### [Pommy](https://pommydemo.netlify.app)
 
-<a href="https://github.com/kirawebdesigner/brand-blueprint-generator"><img src="assets/banner-brandblueprint.jpg" width="760" alt="BrandBlueprint AI: modular brand strategy and identity generation"></a>
+<a href="https://pommydemo.netlify.app"><img src="assets/portfolio/pommy.webp" width="760" alt="Pommy restaurant commerce website homepage"></a>
 
-**An AI-assisted brand strategy workspace** for turning early direction into a more structured identity system. [View repository →](https://github.com/kirawebdesigner/brand-blueprint-generator)
+**Restaurant commerce website.** A searchable menu, product discovery, cart, checkout, delivery and takeaway information, order handling, and protected staff operations for a local restaurant experience. [Live product](https://pommydemo.netlify.app) · [Case study](https://kiraweb.pro.et/work/pommy/)
+
+## More work from the portfolio
+
+- **[KiraEstate](https://kiraweb.pro.et/work/kiraestate/)** — a responsive property discovery and inquiry experience designed around Addis Ababa real estate. [Live concept](https://kiraestate.netlify.app/) · [GitHub](https://github.com/kirawebdesigner/realestate)
+- **[Majestic](https://kiraweb.pro.et/work/majestic/)** — a premium corporate website concept that turns a broad service offering into one confident presentation. [Live concept](https://majestictradingplc.netlify.app)
+
+## Open-source tooling
+
+### [KirzKit](https://github.com/kirawebdesigner/KirzKit)
+
+A portable operating layer for AI coding agents, with specialist workflows, reusable skills, project context, and validation-first guardrails. [View repository](https://github.com/kirawebdesigner/KirzKit)
 
 ## GitHub activity
 
@@ -90,4 +103,4 @@ A focused selection of products and systems I’ve been building. **Each banner 
 
 ---
 
-<p align="center"><sub>Designed around the work, not the widget collection.</sub></p>
+<p align="center"><sub>Building products, systems, and digital tools that work beyond the screen.</sub></p>

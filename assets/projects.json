@@ -1,24 +1,24 @@
 {
   "projects": [
     {
-      "name": "Kira Real Estate",
-      "repo": "realestate",
-      "description": "A practical real-estate web experience built as a product surface."
-    },
-    {
       "name": "Zewijuna",
       "repo": "zewijunatest",
-      "description": "A mobile app and web-platform project for a real client workflow."
+      "description": "A connected mobile and web matchmaking product."
     },
     {
-      "name": "Dental Management System",
+      "name": "DMS",
       "repo": "dentalcare",
-      "description": "A workflow-focused dental clinic management application."
+      "description": "Role-based dental operations management software."
     },
     {
-      "name": "BrandBlueprint AI",
-      "repo": "brand-blueprint-generator",
-      "description": "AI-assisted brand strategy and identity generation."
+      "name": "KiraEstate",
+      "repo": "realestate",
+      "description": "A responsive property discovery and inquiry experience."
+    },
+    {
+      "name": "KirzKit",
+      "repo": "KirzKit",
+      "description": "A portable operating layer for AI coding agents."
     }
   ]
 }
