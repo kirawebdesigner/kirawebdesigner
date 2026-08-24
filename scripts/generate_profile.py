@@ -70,7 +70,7 @@ def generate_radar(data: dict, out_base: Path) -> None:
         bg, panel, foreground, muted = theme(dark)
         lines = [f'<rect width="{width}" height="{height}" rx="18" fill="{bg}"/>', f'<rect x="1" y="1" width="{width-2}" height="{height-2}" rx="17" fill="none" stroke="{ACCENT_DARK if dark else ACCENT}" stroke-opacity=".34"/>']
         lines.append(f'<text x="26" y="36" fill="{foreground}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" font-weight="700">{escape(str(data.get("title", "Skill Radar")))}</text>')
-        lines.append(f'<text x="26" y="59" fill="{muted}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">A current, self-rated snapshot - 0-100</text>')
+        lines.append(f'<text x="26" y="59" fill="{muted}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">{escape(str(data.get("subtitle", "A current, self-rated snapshot - 0-100")))}</text>')
         for level in (0.25, 0.5, 0.75, 1.0):
             lines.append(f'<polygon points="{points_for([level] * len(values), cx, cy, radius)}" fill="none" stroke="{muted}" stroke-opacity=".24"/>')
         for index, label in enumerate(labels):
@@ -133,7 +133,7 @@ def generate_language_radar(language_bytes: dict[str, int], out_base: Path) -> N
     max_value = max(value for _, value in ranked) or 1
     curve = 0.4
     axes = [{"label": f"{language[:16]} {format_count(value)}", "value": round((value ** curve) / (max_value ** curve) * 100)} for language, value in ranked]
-    generate_radar({"title": "Public language mix", "axes": axes}, out_base)
+    generate_radar({"title": "Public language mix", "subtitle": "Aggregated public repository language bytes", "axes": axes}, out_base)
 
 
 def generate_cards(user: str, projects: list[dict], repos_by_name: dict[str, dict], out_dir: Path) -> None:

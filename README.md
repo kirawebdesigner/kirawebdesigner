@@ -4,19 +4,15 @@
 
 ### Student developer · Product builder · AI systems explorer
 
-Building websites, web apps, mobile products, and AI-powered tools.
+**Web products · mobile apps · useful AI**
 
-[GitHub](https://github.com/kirawebdesigner) · [Project repositories](https://github.com/kirawebdesigner?tab=repositories)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2DA44E&center=true&vCenter=true&width=620&lines=Web+apps+that+solve+real+problems;Mobile+products+with+room+to+grow;AI+systems+made+useful" alt="Typing introduction">
+[GitHub](https://github.com/kirawebdesigner) · [All repositories](https://github.com/kirawebdesigner?tab=repositories)
 
 </div>
 
 ## What I build
 
-I’m **Kirubel**, a student developer and product builder. I like taking an idea from a rough interface or workflow to a working product that people can actually use. My current direction sits at the intersection of product development, web and mobile engineering, AI systems, and automation.
-
-Right now I’m sharpening the fundamentals behind reliable products: clearer architecture, better APIs, thoughtful interfaces, and AI features that support the product instead of becoming the product by default.
+I’m **Kirubel**, a student developer and product builder. I turn rough ideas into web apps, mobile products, and AI-powered tools. I’m currently focused on stronger architecture, better APIs, thoughtful interfaces, and practical automation.
 
 ## Toolbox
 
@@ -34,8 +30,6 @@ Right now I’m sharpening the fundamentals behind reliable products: clearer ar
   </picture>
 </p>
 
-The radar is deliberately self-rated rather than presented as a certification. It is a snapshot of where I am strongest today and where I am still building depth.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/language-radar-dark.svg">
@@ -44,63 +38,54 @@ The radar is deliberately self-rated rather than presented as a certification. I
   </picture>
 </p>
 
-The second radar reflects language bytes across my public, non-fork repositories. It is a rough signal of what I have shipped, not a ranking of what I know.
+The first radar is self-rated. The second reflects language bytes across my public, non-fork repositories. Both are snapshots, not certifications.
 
 ## Featured builds
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/kirawebdesigner/realestate">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-realestate-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-realestate-light.svg">
-          <img src="assets/card-realestate-light.svg" width="420" alt="Kira Real Estate">
-        </picture>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/kirawebdesigner/zewijunatest">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-zewijunatest-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-zewijunatest-light.svg">
-          <img src="assets/card-zewijunatest-light.svg" width="420" alt="Zewijuna">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/kirawebdesigner/dentalcare">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-dentalcare-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-dentalcare-light.svg">
-          <img src="assets/card-dentalcare-light.svg" width="420" alt="Dental Management System">
-        </picture>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/kirawebdesigner/brand-blueprint-generator">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/card-brand-blueprint-generator-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-brand-blueprint-generator-light.svg">
-          <img src="assets/card-brand-blueprint-generator-light.svg" width="420" alt="BrandBlueprint AI">
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/kirawebdesigner/realestate">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-realestate-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-realestate-light.svg">
+      <img src="assets/card-realestate-light.svg" width="760" alt="Kira Real Estate">
+    </picture>
+  </a>
+</p>
 
-<sub>
+<p align="center">
+  <a href="https://github.com/kirawebdesigner/zewijunatest">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-zewijunatest-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-zewijunatest-light.svg">
+      <img src="assets/card-zewijunatest-light.svg" width="760" alt="Zewijuna">
+    </picture>
+  </a>
+</p>
 
-| Build | Description | Repository |
-|---|---|---|
-| **Kira Real Estate** | A practical real-estate web experience. | [realestate](https://github.com/kirawebdesigner/realestate) |
-| **Zewijuna** | A mobile app and web-platform project. | [zewijunatest](https://github.com/kirawebdesigner/zewijunatest) |
-| **Dental Management System** | A workflow-focused dental clinic management application. | [dentalcare](https://github.com/kirawebdesigner/dentalcare) |
-| **BrandBlueprint AI** | AI-assisted brand strategy and identity generation. | [brand-blueprint-generator](https://github.com/kirawebdesigner/brand-blueprint-generator) |
+<p align="center">
+  <a href="https://github.com/kirawebdesigner/dentalcare">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-dentalcare-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-dentalcare-light.svg">
+      <img src="assets/card-dentalcare-light.svg" width="760" alt="Dental Management System">
+    </picture>
+  </a>
+</p>
 
-</sub>
+<p align="center">
+  <a href="https://github.com/kirawebdesigner/brand-blueprint-generator">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-brand-blueprint-generator-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-brand-blueprint-generator-light.svg">
+      <img src="assets/card-brand-blueprint-generator-light.svg" width="760" alt="BrandBlueprint AI">
+    </picture>
+  </a>
+</p>
+
+- **Kira Real Estate** — [realestate](https://github.com/kirawebdesigner/realestate): a practical real-estate web experience.
+- **Zewijuna** — [zewijunatest](https://github.com/kirawebdesigner/zewijunatest): a mobile app and web-platform project.
+- **Dental Management System** — [dentalcare](https://github.com/kirawebdesigner/dentalcare): a workflow-focused dental clinic management application.
+- **BrandBlueprint AI** — [brand-blueprint-generator](https://github.com/kirawebdesigner/brand-blueprint-generator): AI-assisted brand strategy and identity generation.
 
 ## GitHub activity
 
@@ -120,7 +105,7 @@ The second radar reflects language bytes across my public, non-fork repositories
   </picture>
 </p>
 
-The charts above are generated into this repository on a schedule from public GitHub data. The profile does not depend on a live stats server for its core visuals.
+<sub>Generated from public GitHub data and refreshed in this repository on a schedule.</sub>
 
 ---
 

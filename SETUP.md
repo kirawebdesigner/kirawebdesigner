@@ -14,7 +14,7 @@ python scripts/generate_profile.py \
   --out assets
 ```
 
-The generator refreshes the self-rated radar, public language radar, project cards, profile snapshot, and recent public activity chart. It excludes forked repositories and excludes HTML, CSS, and build/configuration languages from the language radar so the result better reflects application code.
+The generator refreshes the self-rated radar, public language radar, project cards, profile snapshot, and recent public activity chart. It excludes forked repositories and excludes HTML, CSS, and build/configuration languages from the language radar so the result better reflects application code. The README uses stable text in the hero rather than a third-party typing animation because the animation clipped on narrow mobile screens.
 
 ## GitHub Actions
 

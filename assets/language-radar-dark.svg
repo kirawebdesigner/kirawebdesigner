@@ -2,7 +2,7 @@
 <rect width="500" height="410" rx="18" fill="#0D1117"/>
 <rect x="1" y="1" width="498" height="408" rx="17" fill="none" stroke="#3FB950" stroke-opacity=".34"/>
 <text x="26" y="36" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="19" font-weight="700">Public language mix</text>
-<text x="26" y="59" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">A current, self-rated snapshot - 0-100</text>
+<text x="26" y="59" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Aggregated public repository language bytes</text>
 <polygon points="250.0,193.8 274.4,205.5 280.5,232.0 263.6,253.2 236.4,253.2 219.5,232.0 225.6,205.5" fill="none" stroke="#8B949E" stroke-opacity=".24"/>
 <polygon points="250.0,162.5 298.9,186.0 310.9,238.9 277.1,281.3 222.9,281.3 189.1,238.9 201.1,186.0" fill="none" stroke="#8B949E" stroke-opacity=".24"/>
 <polygon points="250.0,131.2 323.3,166.5 341.4,245.9 290.7,309.5 209.3,309.5 158.6,245.9 176.7,166.5" fill="none" stroke="#8B949E" stroke-opacity=".24"/>
