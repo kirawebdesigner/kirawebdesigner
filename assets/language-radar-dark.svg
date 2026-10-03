@@ -16,12 +16,12 @@
 <line x1="250" y1="225" x2="304.2" y2="337.6" stroke="#8B949E" stroke-opacity=".24"/>
 <text x="316.0" y="361.9" text-anchor="start" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">PLpgSQL 145.8k</text>
 <line x1="250" y1="225" x2="195.8" y2="337.6" stroke="#8B949E" stroke-opacity=".24"/>
-<text x="184.0" y="361.9" text-anchor="end" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">C++ 68.6k</text>
+<text x="184.0" y="361.9" text-anchor="end" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Kotlin 133.8k</text>
 <line x1="250" y1="225" x2="128.1" y2="252.8" stroke="#8B949E" stroke-opacity=".24"/>
-<text x="101.8" y="258.8" text-anchor="end" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">PowerShell 37.5k</text>
+<text x="101.8" y="258.8" text-anchor="end" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">C++ 68.6k</text>
 <line x1="250" y1="225" x2="152.3" y2="147.1" stroke="#8B949E" stroke-opacity=".24"/>
-<text x="131.2" y="130.2" text-anchor="end" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">Java 35.9k</text>
-<polygon points="250.0,100.0 333.1,158.8 309.7,238.6 260.3,246.4 242.4,240.8 236.6,228.1 239.2,216.4" fill="#FF6B6B" fill-opacity=".27" stroke="#FF6B6B" stroke-width="2.5"/>
+<text x="131.2" y="130.2" text-anchor="end" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12">PowerShell 37.5k</text>
+<polygon points="250.0,100.0 333.1,158.8 309.7,238.6 260.3,246.4 239.7,246.4 232.9,228.9 239.2,216.4" fill="#FF6B6B" fill-opacity=".27" stroke="#FF6B6B" stroke-width="2.5"/>
 <circle cx="250.0" cy="100.0" r="4" fill="#0D1117" stroke="#FF6B6B" stroke-width="2"/>
 <text x="250.0" y="86.0" text-anchor="middle" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">100</text>
 <circle cx="333.1" cy="158.8" r="4" fill="#0D1117" stroke="#FF6B6B" stroke-width="2"/>
@@ -30,10 +30,10 @@
 <text x="323.4" y="241.7" text-anchor="middle" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">49</text>
 <circle cx="260.3" cy="246.4" r="4" fill="#0D1117" stroke="#FF6B6B" stroke-width="2"/>
 <text x="266.4" y="259.0" text-anchor="middle" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">19</text>
-<circle cx="242.4" cy="240.8" r="4" fill="#0D1117" stroke="#FF6B6B" stroke-width="2"/>
-<text x="236.3" y="253.4" text-anchor="middle" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">14</text>
-<circle cx="236.6" cy="228.1" r="4" fill="#0D1117" stroke="#FF6B6B" stroke-width="2"/>
-<text x="222.9" y="231.2" text-anchor="middle" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">11</text>
+<circle cx="239.7" cy="246.4" r="4" fill="#0D1117" stroke="#FF6B6B" stroke-width="2"/>
+<text x="233.6" y="259.0" text-anchor="middle" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">19</text>
+<circle cx="232.9" cy="228.9" r="4" fill="#0D1117" stroke="#FF6B6B" stroke-width="2"/>
+<text x="219.3" y="232.0" text-anchor="middle" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">14</text>
 <circle cx="239.2" cy="216.4" r="4" fill="#0D1117" stroke="#FF6B6B" stroke-width="2"/>
 <text x="228.3" y="207.7" text-anchor="middle" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">11</text>
 </svg>
