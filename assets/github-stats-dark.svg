@@ -10,7 +10,7 @@
 <text x="224" y="99" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18" font-weight="700">5</text>
 <text x="224" y="116" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11">Stars</text>
 <rect x="392" y="78" width="160" height="48" rx="10" fill="#161B22"/>
-<text x="406" y="99" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18" font-weight="700">0</text>
+<text x="406" y="99" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18" font-weight="700">1</text>
 <text x="406" y="116" fill="#8B949E" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11">Forks</text>
 <rect x="574" y="78" width="160" height="48" rx="10" fill="#161B22"/>
 <text x="588" y="99" fill="#FF6B6B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18" font-weight="700">3</text>
